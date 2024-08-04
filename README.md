@@ -31,18 +31,18 @@
 </p>
 
 
-<!-- ![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImaginedTime&show_icons=true&theme=transparent)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImaginedTime&theme=nord_dark) -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImaginedTime&theme=nord_dark) -->
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=ImaginedTime)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImaginedTime&theme=nord_dark&exclude=HTML,CSS)
+![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImaginedTime&show_icons=true&theme=transparent)
+
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImaginedTime&theme=nord_dark&exclude=HTML,CSS)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImaginedTime&theme=nord_dark&exclude=HTML,CSS)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImaginedTime&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImaginedTime&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImaginedTime&theme=nord_dark) -->
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
