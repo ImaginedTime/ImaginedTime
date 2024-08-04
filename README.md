@@ -42,3 +42,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImaginedTime&theme=nord_dark&exclude=HTML,CSS)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImaginedTime&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImaginedTime&theme=nord_dark)
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
